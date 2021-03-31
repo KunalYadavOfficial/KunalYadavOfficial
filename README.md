@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Android projects.
 
-- 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-yadav-77a156177/" target="blank">Linkedin</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/kunal-yadav-77a156177/" target="blank">Linkedin</a>.
 
 
 
