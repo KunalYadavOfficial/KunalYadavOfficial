@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/kunalcheetah" target="blank"><img src="https://img.shields.io/twitter/follow/kunalcheetah?logo=twitter&style=for-the-badge" alt="kunalcheetah" /></a> </p>
 
-- 🔭 I’m currently working on **improving my coding skills.**
+- 🔭 I’m currently working on improving my coding skills.
 
-- 🌱 I’m currently learning **Android App Development.**
+- 🌱 I’m currently learning Android App Development.
 
-- 👯 I’m looking to collaborate on **Android projects.**
+- 👯 I’m looking to collaborate on Android projects.
 
-- 📫 How to reach me **https://www.linkedin.com/in/kunal-yadav-77a156177/**
+- 📫 How to reach me a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-yadav-77a156177/" target="blank">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
