@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalyadavofficial&label=Profile%20views&color=0e75b6&style=flat" alt="kunalyadavofficial" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kunalcheetah" target="blank"><img src="https://img.shields.io/twitter/follow/kunalcheetah?logo=twitter&style=for-the-badge" alt="kunalcheetah" /></a> </p>
 
 - 🔭 I’m currently working on improving my coding skills.
 
@@ -11,7 +10,16 @@
 
 - 👯 I’m looking to collaborate on Android projects.
 
-- 📫 How to reach me a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-yadav-77a156177/" target="blank">Linkedin</a>
+- 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-yadav-77a156177/" target="blank">Linkedin</a>
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +39,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalYadavOfficial)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalYadavOfficial&show_icons=true&theme=radical)
