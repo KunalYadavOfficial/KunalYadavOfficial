@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kunalcheetah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kunalcheetah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-yadav-77a156177/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kunal-yadav-77a156177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-yadav-77a156177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kunal-yadav-77a156177/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kunal.yadav.1650332" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/kunal.yadav.1650332" height="30" width="40" /></a>
 </p>
 
